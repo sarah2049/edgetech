@@ -1,0 +1,2 @@
+# edgetech
+edgetech.xyz issues
